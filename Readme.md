@@ -1,2 +1,2 @@
-## Code for the paper "Hierarchical History based Information Selection for Document Grounded Dialogue Generation"
-## Will be updated progressively
+## Code for the paper "A Response Generation Model with Adaptive Dialogue Patterns"
+## Will update after the paper is accepted
